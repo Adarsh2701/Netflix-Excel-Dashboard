@@ -1,6 +1,6 @@
 # Netflix-Excel-Dashboard
 
-# Netflix Excel Dashboard
+ Netflix Excel Dashboard
 This project features an interactive Excel dashboard designed to analyze Netflix viewing data. The dashboard provides insights into viewing trends, popular content, and user engagement metrics.
 
 # Introduction
